@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.101
+
+### Patch Changes
+
+- feat: simplify HMR implementation ([#11132](https://github.com/sveltejs/svelte/pull/11132))
+
 ## 5.0.0-next.100
 
 ### Patch Changes
